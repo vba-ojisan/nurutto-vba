@@ -1,2 +1,2 @@
 # nurutto-vba
-Excel・VBAのぬるっとコード ルーレット📄
+Excel・VBAのぬるっとコード(ルーレット)📄
